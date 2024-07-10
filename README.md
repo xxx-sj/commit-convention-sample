@@ -7,7 +7,7 @@
 ### Default
 <pre>
 <code>
-<b><a href="#type">&lt;type&gt;</a></b> (<b><a href="#scope">&lt;optional scope&gt;<b>): <b><a href="#subject">&lt;subject&gt;</a></b>
+<b><a href="#type">&lt;type&gt;</a></b> (<b><a href="#scope">&lt;optional scope&gt;</a></b>): <b><a href="#subject">&lt;subject&gt;</a></b>
 
 <b><a href="#body">&lt;body(optional)&gt;</a></b>
 
