@@ -156,7 +156,7 @@ Implemented user login functionality using JWT. This includes the login form, au
 
 Fixes #42
 See also #33
-Co-authored-by: example <sample@gmail.com>
+Co-authored-by: example <sample@gmail.com>
 ```
 <br>
 
