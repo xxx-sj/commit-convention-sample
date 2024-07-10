@@ -150,7 +150,7 @@ Reviewed-by name <email@email.com>
 ### examples
 
 ```
-feat(auth): Add user login feature
+feat(auth): add user login feature
 
 Implemented user login functionality using JWT. This includes the login form, authentication service, and relevant routes.
 
@@ -161,7 +161,7 @@ Co-authored-by: example <sample@gmail.com>
 <br>
 
 ```
-docs(README): Update installation instructions
+docs(README): update installation instructions
 
 Added detailed steps for setting up the project locally. Included instructions for installing dependencies and running the development server.
 ``` 
